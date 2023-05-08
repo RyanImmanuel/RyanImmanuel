@@ -1,6 +1,6 @@
 ![logo](https://github.com/RyanImmanuel/RyanImmanuel/blob/main/githubBanner.png)
 <h1 align="center">Hey 👋, Nice to meet you!</h1>
-<h3 align="left">I am an organized, hardworking and creative programmer who offers innovative problem solving and excellent teamwork abilities.</h3><h3 align="left">Curious and eager to learn to develop and apply newly acquired skills.</h3>
+<h3 align="left">I am an organized, hardworking and creative programmer who offers innovative problem solving and excellent teamwork abilities.Curious and eager to learn to develop and apply newly acquired skills.</h3>
 <img align="center" alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
