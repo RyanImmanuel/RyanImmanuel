@@ -1,8 +1,9 @@
 ![logo](https://github.com/RyanImmanuel/RyanImmanuel/blob/main/githubBanner.png)
 <h1 align="center">Hey 👋, Nice to meet you!</h1>
-<h3 align="left">I am an organized, hardworking and creative programmer who offers innovative problem solving and excellent teamwork abilities.Curious and eager to learn to develop and apply newly acquired skills.</h3>
-<img align="center" alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="left">I am an organized, hardworking and creative programmer who offers innovative problem solving and excellent teamwork abilities. Curious and eager to learn to develop and apply newly acquired skills.</h3>
+</br>
 
+<img align="center" alt="coding" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-immanuel-493263235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-immanuel-493263235" height="30" width="40" /></a>
